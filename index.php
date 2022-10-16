@@ -12,6 +12,7 @@
                "nombre" => "Pedro",
                "apellido" => "Sánchez",
                "edad" => 50
+               "cosa" => "Camisa"
           ];
 
 
